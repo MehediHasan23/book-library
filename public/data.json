@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Shah Rukh Khan",
+    "born": "November 2, 1965",
+    "age": "55 years",
+    "height": "1.69 m",
+    "bestMovie": "Kuch Kuch Hota Hai",
+    "id": 1,
+    "rating": "7.6",
+    "salary": 250000000,
+    "images": "https://project-image.netlify.app/images/img1.png"
+  },
+  {
+    "name": "Amitabh Bachchan",
+    "born": "October 11, 1942",
+    "age": "78 years",
+    "height": "1.89 m",
+    "bestMovie": "Sholay",
+    "rating": "8.2",
+    "id": 2,
+    "salary": 350000000,
+    "images": "https://project-image.netlify.app/images/img2.png"
+  },
+  {
+    "name": "Salman Khan",
+    "born": "December 27, 1965",
+    "age": "55 years",
+    "height": "1.79 m",
+    "bestMovie": "Bajrangi Bhaijaan",
+    "rating": "8",
+    "id": 3,
+    "salary": 200000000,
+    "images": "https://project-image.netlify.app/images/img3.png"
+  },
+  {
+    "name": "Aamir Khan",
+    "born": " March 14, 1965",
+    "age": "56 years",
+    "height": "1.63 m",
+    "bestMovie": "3 Idiots",
+    "id": 4,
+    "rating": "8.4",
+    "salary": 220000000,
+    "images": "https://project-image.netlify.app/images/img4.png"
+  },
+  {
+    "name": "Akshay Kumar",
+    "born": "September 9, 1967",
+    "age": "54 years",
+    "height": "1.78 m",
+    "bestMovie": "Phir Hera Pheri",
+    "id": 5,
+    "rating": "7.1",
+    "salary": 150000000,
+    "images": "https://project-image.netlify.app/images/img5.png"
+  },
+  {
+    "name": "Hrithik Roshan",
+    "born": "January 10, 1974",
+    "age": "47 years",
+    "height": "1.8 m",
+    "bestMovie": "Krrish",
+    "id": 6,
+    "rating": "6.4",
+    "salary": 120000000,
+    "images": "https://project-image.netlify.app/images/img6.png"
+  },
+  {
+    "name": "Ranbir Kapoor",
+    "born": "September 28, 1982",
+    "age": "38 years",
+    "height": "1.83 m",
+    "bestMovie": "Yeh Jawaani Hai Deewani",
+    "id": 7,
+    "rating": "7.4",
+    "salary": 80000000,
+    "images": "https://project-image.netlify.app/images/img7.png"
+  },
+  {
+    "name": "Irrfan Khan",
+    "born": " January 7, 1967",
+    "age": "51 years",
+    "height": "1.49 m",
+    "bestMovie": "Hindi Medium",
+    "id": 8,
+    "rating": "7.5",
+    "salary": 30000000,
+    "images": "https://project-image.netlify.app/images/img8.png"
+  },
+  {
+    "name": "Deepika Padukone",
+    "born": "January 5, 1986",
+    "age": "35 years",
+    "height": "35 years",
+    "bestMovie": "Om Shanti Om",
+    "id": 9,
+    "rating": "6.4",
+    "salary": 500000000,
+    "images": "https://project-image.netlify.app/images/img9.png"
+  },
+  {
+    "name": "Prabhas",
+    "born": "October 23, 1979",
+    "age": "41 years",
+    "height": "1.83 m",
+    "bestMovie": "Baahubali: The Beginning",
+    "id": 10,
+    "rating": "8",
+    "salary": 350000000,
+    "images": "https://project-image.netlify.app/images/img10.png"
+  },
+  {
+    "name": "Priyanka Chopra",
+    "born": "July 18, 1982",
+    "age": "39 years",
+    "height": "1.65 m",
+    "bestMovie": "Krrish",
+    "id": 11,
+    "rating": "6.4",
+    "salary": 50000000,
+    "images": "https://project-image.netlify.app/images/img11.png"
+  },
+  {
+    "name": "Aishwarya Rai Bachchan",
+    "born": "November 1, 1973",
+    "age": "47 years",
+    "height": "1.65 m",
+    "bestMovie": "Devdas",
+    "id": 12,
+    "rating": "7.6",
+    "salary": 120000000,
+    "images": "https://project-image.netlify.app/images/img12.png"
+  }
+]

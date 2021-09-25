@@ -1,0 +1,18 @@
+.card{
+  width: 270px !important;
+  height: 570px !important;
+  margin: 10px;
+  border: none;
+  box-shadow: 5px 5px 5px lightgray !important;
+  border-left: 1px solid lightgray ;
+  background-color: rgba(211, 211, 211, 0.383);
+  
+}
+.card img{
+  height: 230px !important;
+  width: 220px !important;
+  margin: auto;
+  margin-top: 10px;
+  
+  
+}
