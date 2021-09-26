@@ -1,0 +1,9 @@
+.cart{
+  margin-top: 5%;
+  margin-left: 30px;
+  background-color: rgba(211, 211, 211, 0.555);
+  height: 400px !important;
+  border-radius: 5px 30px;
+  padding: 20px;
+}
+

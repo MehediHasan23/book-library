@@ -1,0 +1,122 @@
+[
+  {
+    "name": "The Alchemist",
+    "Author": "Paulo Coelho",
+    "publishedyear": 1988,
+    "Category": "#1 Best Seller in Novel",
+    "stock": "In Stock (50+ copies available)",
+    "price": 630,
+    "img": "https://my-new-books-images.netlify.app/img1.png",
+    "id": 1
+  },
+  {
+    "name": "100 Ways To Motivate Others",
+    "Author": "Steve Chandler",
+    "publishedyear": 2004,
+    "Category": "Self-help and meditation",
+    "stock": "In Stock (30+ copies available)",
+    "price": 330,
+    "img": "https://my-new-books-images.netlify.app/img2.png",
+    "id": 2
+  },
+  {
+    "name": "The Secret",
+    "Author": "Rhonda Byrne",
+    "publishedyear": 2006,
+    "Category": "Self-help book",
+    "stock": "In Stock (10+ copies available)",
+    "price": 238,
+    "img": "https://my-new-books-images.netlify.app/img3.png",
+    "id": 3
+  },
+  {
+    "name": "Discover Your Destiny",
+    "Author": "Robin S Sharma",
+    "publishedyear": 2004,
+    "Category": "Self-help and meditation",
+    "stock": "In Stock (35+ copies available)",
+    "price": 450,
+    "img": "https://my-new-books-images.netlify.app/img4.png",
+    "id": 4
+  },
+  {
+    "name": "Shoe Dog",
+    "Author": "Phil Knight",
+    "publishedyear": 2016,
+    "Category": "Biography, Autobiography, Memoir",
+    "stock": "In Stock (55+ copies available)",
+    "price": 520,
+    "img": "https://my-new-books-images.netlify.app/img5.png",
+    "id": 5
+  },
+  {
+    "name": "Atomic Habits",
+    "Author": "James Clear",
+    "publishedyear": 2018,
+    "Category": "Self-help book",
+    "stock": "In Stock (28+ copies available)",
+    "price": 720,
+    "img": "https://my-new-books-images.netlify.app/img6.png",
+    "id": 6
+  },
+  {
+    "name": "The Seven Husbands of Evelyn Hugo",
+    "Author": "Taylor Jenkins Reid",
+    "publishedyear": 2017,
+    "Category": "Novel, Historical Fiction",
+    "stock": "In Stock (8+ copies available)",
+    "price": 220,
+    "img": "https://my-new-books-images.netlify.app/img7.png",
+    "id": 7
+  },
+  {
+    "name": "Apples Never Fall",
+    "Author": "Liane Moriarty",
+    "publishedyear": 2021,
+    "Category": "Thriller, Domestic Fiction",
+    "stock": "In Stock (22+ copies available)",
+    "price": 430,
+    "img": "https://my-new-books-images.netlify.app/img8.png",
+    "id": 8
+  },
+  {
+    "name": "Da Vinci Code",
+    "Author": "Dan Brown",
+    "publishedyear": 2003,
+    "Category": "Novel,Thriller,Mystery, Detective novel",
+    "stock": "In Stock (25+ copies available)",
+    "price": 510,
+    "img": "https://my-new-books-images.netlify.app/img9.png",
+    "id": 9
+  },
+  {
+    "name": "The 100",
+    "Author": " Michael H. Heart",
+    "publishedyear": 1978,
+    "Category": "Biographies,Memories  Interviews",
+    "stock": "In Stock (25+ copies available)",
+    "price": 210,
+    "img": "https://my-new-books-images.netlify.app/img10.png",
+    "id": 10
+  },
+  {
+    "name": "Harry Potter",
+    "Author": "J. K. Rowling",
+    "publishedyear": 1997,
+    "Category": "Novel, Children's literature, Fantasy Fiction",
+    "stock": "In Stock (35+ copies available)",
+    "price": 590,
+    "img": "https://my-new-books-images.netlify.app/img11.png",
+    "id": 11
+  },
+  {
+    "name": "Reclaim Your Heart",
+    "Author": "Yasmin Mogahed",
+    "publishedyear": 2012,
+    "Category": "Self-help book",
+    "stock": "In Stock (10+ copies available)",
+    "price": 300,
+    "img": "https://my-new-books-images.netlify.app/img12.png",
+    "id": 12
+  }
+]
