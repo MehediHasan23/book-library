@@ -1,12 +1,12 @@
 .card{
-  width: 265px !important;
+  width: 277px !important;
   height: 540px !important;
   margin: 10px;
-  border: none;
-  box-shadow: 5px 5px 5px lightgray !important;
-  border-left: 1px solid lightgray ;
-  background-color: rgba(211, 211, 211, 0.712);
+  border: 2px solid goldenrod;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
   margin-top: 5px;
+  
   
 }
 
@@ -21,4 +21,7 @@
 .card-body p{
   line-height: 17px;
   margin: 8px;
+}
+.card h5{
+  color: blue;
 }

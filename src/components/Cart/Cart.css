@@ -1,9 +1,15 @@
 .cart{
-  margin-top: 5%;
+  
   margin-left: 30px;
-  background-color: rgba(211, 211, 211, 0.555);
+  background-color: lightgray;
   height: 400px !important;
-  border-radius: 5px 30px;
+  border-radius: 10px;
   padding: 20px;
+  
+}
+
+.cart-details li{
+  text-align: start;
+  margin-left: 10px;
 }
 

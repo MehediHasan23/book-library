@@ -12,5 +12,6 @@ code {
     monospace;
 }
 body{
- background-image: url(images/books-library.jpg);
+  background: linear-gradient(to right, #0f0c29da , #302b63 50%, #24243e);
+ 
 }

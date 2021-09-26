@@ -13,10 +13,11 @@ const Cart = (props) => {
   return (
     <div className='cart'>
       <div className='cart-details '>
-        <h4>Product added: {cart.length} </h4>
-        <h5>total cost:{total}</h5>
+        <h4>Product Added: {cart.length} </h4>
+        <h5>Total cost:${total}</h5>
+        <hr />
         {
-          cart.map(name=> <p>name added: {name.name}</p>)
+          cart.map(name=> <li>{name.name}</li>)
         }
       </div>
       

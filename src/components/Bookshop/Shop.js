@@ -13,7 +13,12 @@ const Shop = () => {
   },[])
 
   const handelAddToCart =(product)=>{
-    setCart([...cart, product])
+    const isMatching = cart.find(existingData => existingData.name === product.name)
+    if(!isMatching){
+      setCart([...cart, product])
+    }else{
+      alert('item already added')
+    }
   }
 
   return (
